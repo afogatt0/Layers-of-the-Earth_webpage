@@ -1,0 +1,37 @@
+LAYERS OF THE EARTH
+
+1. Crust:
+
+- The crust is the outermost layer of the Earth.
+- It is relatively thin compared to the other layers, with an average thickness of about 5-70 kilometers (3-43 miles).
+- It is composed primarily of solid rock.
+- The crust can be divided into two types: continental crust, which is thicker and less dense, and oceanic crust, which is thinner and denser.
+- It is where all terrestrial life exists and where geological processes such as weathering, erosion, and tectonic activity occur.
+
+2. Upper Mantle:
+
+- The upper mantle lies beneath the crust and extends to about 660 kilometers (410 miles).
+- It is primarily composed of solid rock, although it can exhibit plasticity over long time scales, allowing it to flow slowly under pressure.
+- The upper mantle is responsible for convection currents that drive plate tectonics, the movement of Earth's lithospheric plates.
+- It's also where magma originates and rises from deeper layers.
+
+3. Lower Mantle:
+
+- The lower mantle extends from about 660 kilometers (410 miles) to a depth of approximately 2,890 kilometers (1,800 miles).
+- It is composed of solid rock under immense pressure and high temperatures.
+- The lower mantle exhibits plasticity, but it is much more rigid compared to the upper mantle.
+- Convection currents in the lower mantle also play a crucial role in driving plate tectonics.
+
+4. Outer Core:
+
+- The outer core lies beneath the mantle and extends from about 2,890 kilometers (1,800 miles) to approximately 5,150 kilometers (3,200 miles).
+- It is primarily composed of molten iron and nickel.
+- The outer core generates Earth's magnetic field through the motion of conductive materials.
+- Convection currents in the outer core, coupled with the Earth's rotation, create a dynamo effect that generates the magnetic field.
+
+5. Inner Core:
+
+- The inner core is the deepest layer of the Earth, lying beneath the outer core at depths ranging from approximately 5,150 kilometers (3,200 miles) to the center of the planet at about 6,371 kilometers (3,959 miles).
+- It is primarily composed of solid iron and nickel.
+- Despite the high temperatures, the inner core remains solid due to the immense pressure exerted on it by the weight of the Earth's layers above.
+- Seismic waves passing through the inner core reveal distinct properties, such as anisotropy, which suggests crystal alignment, and differential rotation compared to the rest of the planet.
